@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1557720775 source:c:\users\anonymous\desktop\mery\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"classe.h"
+
+1557720908 source:c:\users\anonymous\desktop\mery\project\classe.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Classe.h"
+
+1557711817 c:\users\anonymous\desktop\mery\project\classe.h
+
+1557945393 source:c:\users\toshiba\desktop\mery\mery\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"classe.h"
+
+1557945418 c:\users\toshiba\desktop\mery\mery\project\classe.h
+
+1557945630 source:c:\users\toshiba\desktop\mery\mery\project\classe.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Classe.h"
+
+1558031227 source:c:\users\toshiba\desktop\mery\mery\mery\project\classe.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Classe.h"
+
+1558017051 c:\users\toshiba\desktop\mery\mery\mery\project\classe.h
+
+1558032753 source:c:\users\toshiba\desktop\mery\mery\mery\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"classe.h"
+
+1559387363 source:c:\users\anonymous\desktop\project\classe.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"classe.h"
+
+1559317963 c:\users\anonymous\desktop\project\classe.h
+
+1559354226 source:c:\users\anonymous\desktop\project\main.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"classe.h"
+
+1559387363 source:c:\users\anonymous\desktop\mes 2 projets de programmation\projet2\project\classe.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"classe.h"
+
+1559317963 c:\users\anonymous\desktop\mes 2 projets de programmation\projet2\project\classe.h
+
+1559354226 source:c:\users\anonymous\desktop\mes 2 projets de programmation\projet2\project\main.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"classe.h"
+
+1559387363 source:d:\mes fichiers\etudes\insea\1ere année\s2\2 sept semaines\mes 2 projets de programmation\projet2\project\classe.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"classe.h"
+
+1559317963 d:\mes fichiers\etudes\insea\1ere année\s2\2 sept semaines\mes 2 projets de programmation\projet2\project\classe.h
+
+1559354226 source:d:\mes fichiers\etudes\insea\1ere année\s2\2 sept semaines\mes 2 projets de programmation\projet2\project\main.c
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"classe.h"
+
